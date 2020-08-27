@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/jeong5422/2020_mjc_jsp.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\jmk\workspace\firstProject\.git">
+			<item value="false"/>
+			<item value="jmk &lt;jeong5422@naver.com&gt;"/>
+			<item value="view.jsp 추가"/>
+			<item value="jmk &lt;jeong5422@naver.com&gt;"/>
+			<item value="dfca8b4391d684275134d53ae0e75d88c0c880a5"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>
